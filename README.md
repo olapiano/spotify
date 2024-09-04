@@ -11,7 +11,7 @@ Programmet arbetar i 2 steg
 1. Hämta lista med låtlänkar från spellistan och spara i en excelfil
 2. Läsa in länkarna från spellistan, hämta data och spara i en annan excelfil
 
-Excelfilerna sparas över när man kör programmet (i version 0.0.0.0.1.0) så om du vill spara gammal data så flytta filerna innan du kör programmet igen.
+Excelfilerna sparas över när man kör programmet (i version 0.0.0.0.1.0) så om du vill spara gammal data så flytta eller döp om de gamla excelfilerna innan du kör programmet igen.
 
 Det kommer ta en jäkla tid. Mindfulness och whisky rekomenderas.
 
