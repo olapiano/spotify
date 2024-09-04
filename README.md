@@ -25,6 +25,16 @@ För att kunna köra programmet krävs att man installerar några hjälpbibliote
 
 # The Bruksanvisning
 
+## Ladda ner
+
+Med git installerat
+
+```
+git pull
+```
+
+Annars ladda ner en zip
+
 ## Virtual environment
 
 ### Starta cmd eller liknande
