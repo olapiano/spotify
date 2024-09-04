@@ -83,7 +83,7 @@ Om det står (.venv) före hårddisk och plats så är allt väl. Annars: Ring e
 
 ## Installera nödvändiga bilbiotek
 
-Gör detta endast när virtuella miljön är aktiverad! Annars får du alla bibliotek i globalt på datorn = Störigt och rörigt.
+Gör detta endast när virtuella miljön är aktiverad! Annars får du alla bibliotek installerade globalt på datorn = Störigt och rörigt.
 
 ```cmd
 python -m pip install -r requirements.txt
@@ -101,11 +101,11 @@ Länken måste vara inom citationstecken
 href_to_playlist = "http://din.spotify.spellista.com"
 ```
 
-Det går även bra att byta namn på excelfilerna
+Det går även bra att byta namn på excelfilerna som skapas av programmet och lite annat smått och gått i settings.py
 
 ## Skrapa
 
-Kräver i nuläget Chrome installerat (tror jag)
+Kräver i nuläget Chrome installerat
 
 ```python
 python main.py
