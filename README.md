@@ -13,7 +13,7 @@ Programmet arbetar i 2 steg
 
 Excelfilerna sparas över när man kör programmet (i version 0.0.0.0.1.0) så om du vill spara gammal data så flytta filerna innan du kör programmet igen.
 
-Det kommer ta en jäkla tid. Mindfulness och öl whisky rekomenderas.
+Det kommer ta en jäkla tid. Mindfulness och whisky rekomenderas.
 
 Ett fel som händer då och då (och jag har ingen aning om vaf varför) är att sidan misslyckas med att laddas in och det står bara
 
