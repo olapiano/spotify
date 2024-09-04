@@ -31,15 +31,15 @@ För att kunna köra programmet krävs att man installerar några hjälpbibliote
 
 # The Bruksanvisning
 
-## Ladda ner
+## Ladda ner programmet
 
-Med git installerat
+Om du har git installerat
 
 ```
 git clone git@github.com:olapiano/spotify.git
 ```
 
-Annars ladda ner en zip genom att trycka på CODE -> Download ZIP
+Annars ladda ner en zip genom att trycka på CODE -> Download ZIP och öppna på lämpligt ställe etc
 
 ## Virtual environment
 
