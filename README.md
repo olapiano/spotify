@@ -107,7 +107,7 @@ Där går det även bra att byta namn på excelfilerna som skapas av programmet 
 
 ## Skrapa
 
-Kräver i nuläget att Chrome är installerat
+Kräver i nuläget att Chrome är installerat, samt att den virtuella miljön är aktiverad
 
 ```python
 python main.py
