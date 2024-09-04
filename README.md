@@ -1,7 +1,9 @@
-### Version 0.0.0.0.1.0
+### Version 0.0.0.0.1.1
 
 ### Funktionalitet 3/10
+
 ### Snabbhet 2/10
+
 ### Användarovänlighet 9,8/10
 
 # Öbaot
@@ -11,7 +13,7 @@ Programmet arbetar i 2 steg
 1. Hämta lista med låtlänkar från spellistan och spara i en excelfil
 2. Läsa in länkarna från spellistan, hämta data och spara i en annan excelfil
 
-Excelfilerna sparas över när man kör programmet (i version 0.0.0.0.1.0) så om du vill spara gammal data så flytta eller döp om de gamla excelfilerna innan du kör programmet igen.
+Excelfilerna sparas över när man kör programmet så om du vill spara gammal data så flytta eller döp om de gamla excelfilerna innan du kör programmet igen.
 
 Det kommer ta en jäkla tid. Mindfulness och whisky rekomenderas.
 
@@ -49,7 +51,7 @@ Gå in i mappen "spotify"
 
 ### Skapa en virtuell miljö
 
-Ointressant varför. Men det är viktigt. Lovar. 
+Ointressant varför. Men det är viktigt. Lovar.
 
 ```PowerShell
 python -m venv .venv
@@ -116,3 +118,8 @@ python main.py
 Inte svårare än så
 
 # Good Luck!!!
+
+# Uppdateringar
+
+Buggfix: Lyssningar sparas som siffror, inte text
+Funktion: Totalsumman av lyssningarna sparas i ett eget blad

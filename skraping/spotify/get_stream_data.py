@@ -43,7 +43,7 @@ def get_stream_data():
         # Hämta texten från webbelementen
         artist = su.get_text_from_element(artist_element)
         song_title = su.get_text_from_element(song_title_element)
-        streams = su.get_text_from_element(streams_element).replace(" ", "")
+        streams = int(su.get_text_from_element(streams_element).replace(" ", ""))
 
         # Lägg till datan i listan
         the_list.append({"Song": song_title, "Artist": artist, "Streams": streams})
@@ -52,11 +52,13 @@ def get_stream_data():
     df2 = pd.DataFrame(the_list)
     now = datetime.now()
     date = now.strftime("%Y-%m-%d")
-    df2.to_excel(
-        Settings.xlsx_stream_data_file_name,
-        engine="xlsxwriter",
-        sheet_name=date,
-        index=False,
-    )
+
+    print("Summa: ", df2["Streams"].sum())
+
+    df3 = pd.DataFrame([df2["Streams"].sum()], columns=["Total sum"])
+
+    with pd.ExcelWriter(Settings.xlsx_stream_data_file_name) as writer:
+        df2.to_excel(writer, sheet_name=f"Song data {date}")
+        df3.to_excel(writer, sheet_name=f"Total {date}")
 
     print("Excelfil skapades med lyssningsdata")
