@@ -30,7 +30,7 @@ För att kunna köra programmet krävs att man installerar några hjälpbibliote
 Med git installerat
 
 ```
-git pull
+git clone git@github.com:olapiano/spotify.git
 ```
 
 Annars ladda ner en zip
