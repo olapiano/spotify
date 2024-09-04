@@ -43,6 +43,8 @@ Annars ladda ner en zip genom att trycka på CODE -> Download ZIP och öppna på
 
 ## Virtual environment
 
+Ointressant varför. Men det är viktigt. Lovar. 
+
 ### Starta cmd eller liknande
 
 ### Skapa en virtuell miljö
