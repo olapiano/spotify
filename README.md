@@ -41,6 +41,8 @@ Annars ladda ner en zip
 
 ### Skapa en virtuell miljö
 
+Gå in i mappen "spotify"
+
 ```PowerShell
 python -m venv .venv
 ```
