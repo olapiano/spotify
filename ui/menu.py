@@ -10,7 +10,7 @@ def menu():
             """
         
 -------- MENY --------
-1. Updatera sånglänkar
+1. Updatera låtlänkar
 2. Hämta data (kräver att excelfilen med länkar redan finns)
 3. Båda efter varandra
 
