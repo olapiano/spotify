@@ -27,7 +27,7 @@ Trots frustration har jag ingen annan lösning än så länge än att prova igen
 
 I alla fall...
 
-För att kunna köra programmet krävs att man installerar några hjälpbibliotek, vilket står i synnerligen halvdant förklarat nedan.
+För att kunna köra programmet krävs att man installerar några hjälpbibliotek, vilket finns synnerligen halvdant förklarat här nedan.
 
 # The Bruksanvisning
 
