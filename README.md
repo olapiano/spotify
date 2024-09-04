@@ -4,7 +4,7 @@
 ### Snabbhet 2/10
 ### Användarovänlighet 9,8/10
 
-# Öbaot de program
+# Öbaot
 
 Programmet arbetar i 2 steg
 
