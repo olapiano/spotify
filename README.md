@@ -75,12 +75,6 @@ Om det står (.venv) före hårddisk och plats så är allt väl. Annars: Ring e
 (.venv) C:\...
 ```
 
-Avaktivera
-
-```cmd
-deactivate
-```
-
 ## Installera nödvändiga bilbiotek
 
 Gör det endast när virtuella miljön är aktiverad! Annars får du alla bibliotek i globalt på datorn = Störigt och rörigt.
