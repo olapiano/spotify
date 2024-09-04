@@ -103,11 +103,11 @@ Länken måste vara inom citationstecken
 href_to_playlist = "http://din.spotify.spellista.com"
 ```
 
-Det går även bra att byta namn på excelfilerna som skapas av programmet och lite annat smått och gått i settings.py
+Där går det även bra att byta namn på excelfilerna som skapas av programmet och lite annat smått och gått
 
 ## Skrapa
 
-Kräver i nuläget Chrome installerat
+Kräver i nuläget att Chrome är installerat
 
 ```python
 python main.py
