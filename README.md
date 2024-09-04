@@ -121,5 +121,6 @@ Inte svårare än så
 
 # Uppdateringar
 
-Buggfix: Lyssningar sparas som siffror, inte text
-Funktion: Totalsumman av lyssningarna sparas i ett eget blad
+- Buggfix: Lyssningar sparas som siffror, inte text
+
+- Funktion: Totalsumman av lyssningarna sparas i ett eget blad
