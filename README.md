@@ -39,7 +39,7 @@ Med git installerat
 git clone git@github.com:olapiano/spotify.git
 ```
 
-Annars ladda ner en zip
+Annars ladda ner en zip genom att trycka på CODE -> Download ZIP
 
 ## Virtual environment
 
