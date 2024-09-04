@@ -83,7 +83,7 @@ Om det står (.venv) före hårddisk och plats så är allt väl. Annars: Ring e
 
 ## Installera nödvändiga bilbiotek
 
-Gör det endast när virtuella miljön är aktiverad! Annars får du alla bibliotek i globalt på datorn = Störigt och rörigt.
+Gör detta endast när virtuella miljön är aktiverad! Annars får du alla bibliotek i globalt på datorn = Störigt och rörigt.
 
 ```cmd
 python -m pip install -r requirements.txt
