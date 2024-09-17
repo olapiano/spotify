@@ -1,4 +1,4 @@
-### Version 0.0.0.0.1.2
+### Version 0.0.0.0.1.3
 
 ### Funktionalitet 3/10
 
@@ -126,3 +126,5 @@ Inte svårare än så
 - Funktion: Totalsumman av lyssningarna sparas i ett eget blad
 
 - En batch-fil som startar programmet i den virtuella miljön
+
+- En batch-fin som skapar virtuell miljö och installarer biblioteken som behövs 
