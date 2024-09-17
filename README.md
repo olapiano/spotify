@@ -124,3 +124,5 @@ Inte svårare än så
 - Buggfix: Lyssningar sparas som siffror, inte text
 
 - Funktion: Totalsumman av lyssningarna sparas i ett eget blad
+
+- En batch-fil som startar programmet i den virtuella miljön
