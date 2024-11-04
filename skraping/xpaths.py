@@ -11,10 +11,9 @@ class PlayListXPATH(XPATH):
     list_item_link = "//a"
 
 
-
 # Låt
 class SongXPATH(XPATH):
     info_base = "//div[@id='main']//main//div/div[3]/div[3]/div"
     artist = info_base + "/div/span/a"
     song_title = info_base + "/span/a"
-    streams = info_base + "/span[4]"
+    streams = "//span[@data-testid='playcount']"
